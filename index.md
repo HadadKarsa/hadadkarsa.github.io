@@ -22,9 +22,7 @@ To gain insights from HR Department Dataset, I utilized the data analysis cycle 
 Built a coffee bean quality detection model for an online coffee auction application called CoffeeBid. In this project, I applied
 TensorFlow to develop the machine learning model. In addition, I utilized Python, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow, Convolutional Neural Network, Jupyter Notebook, MobileNet-V2 Pretrained Model, and GitHub for teamwork environment.
 
-<img src="images/train.png?raw=true"/>
-
-<img src="images/trainlost.png?raw=true"/>
+<img src="images/traintest.png?raw=true"/>
 
 <img src="images/good_coffee.png?raw=true"/>
 
