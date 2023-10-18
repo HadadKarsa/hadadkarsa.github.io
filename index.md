@@ -13,7 +13,7 @@ To gain insights from HR Department Dataset, I utilized the data analysis cycle 
 
 ### Code and Result
 [View code on GitHub repository](https://github.com/HadadKarsa/portfolio-dataanalytics)
-<iframe src="pdf/dataanalisisporto.pdf?raw=true" width="600" height="400"></iframe>
+<iframe src="pdf/dataanalisisporto.pdf?raw=true" width="400" height="200"></iframe>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
