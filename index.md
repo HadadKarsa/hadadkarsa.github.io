@@ -1,15 +1,18 @@
 ## Portfolio
 
----
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+# Selected Projects in Data Science & Machine Learning
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+## Implement RFM Analysis and Sales Prediction on E-Commerce Dataset
+
+To gain insights from HR Department Data, I utilized the data analysis and linear regression model approach to identify employe's performance based on their age and total hours of absence during their employment. In addition, I employed the python and regression models using Jupyter Notebook to create a robust performance prediction model.
+
+<img src="images/customer-segmentation.png"/>
+
+<img src="https://github.com/rfajri27/ds-test/raw/main/images/sales-prediction.png"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 
 ---
 [Project 3 Title](http://example.com/)
