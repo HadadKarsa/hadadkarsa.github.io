@@ -1,13 +1,13 @@
-title: Hadad Karsa Nur Iman # your name (or website title) here
+title: Hadad Karsa # your name (or website title) here
 logo: "/images/hadadkarsa.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  S1 Sistem Informasi (S.Kom) 
+  Bachelor of Computer Science (S.Kom) || Bangkit Academy 2023 Graduate || TensorFlow Developer Certified (TFD Certified)
   <br><br>
-  TensorFlow Developer Certified
+  I am a fresh graduate with competent skills in data and information technology. Always growing and adapting.
   <br><br>
   <a href="https://www.linkedin.com/in/hadadkarsa/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
+
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
