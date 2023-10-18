@@ -22,20 +22,19 @@ To gain insights from HR Department Dataset, I utilized the data analysis cycle 
 Built a coffee bean quality detection model for an online coffee auction application called CoffeeBid. In this project, I applied
 TensorFlow to develop the machine learning model. In addition, I utilized Python, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow, Convolutional Neural Network, Jupyter Notebook, MobileNet-V2 Pretrained Model, and GitHub for teamwork environment.
 
+<img src="images/train.png?raw=true"/>
+
+<img src="images/trainlost.png?raw=true"/>
+
+<img src="images/good_coffee.png?raw=true"/>
+
+<img src="images/defect_coffee.png?raw=true"/>
+
+[View code on Google Colaboratory](https://colab.research.google.com/drive/13RclWO19sg24Dl76Kk-aTQcQKuTHKCTe?usp=sharing)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 
-[View code on GitHub repository](https://github.com/coffeebid-capstone/CoffeeBid-ML/tree/main/Model%201%20-%20Coffee_Beans_Quality_Detection)
-
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
