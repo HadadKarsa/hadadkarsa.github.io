@@ -12,7 +12,7 @@ To gain insights from HR Department Dataset, I utilized the data analysis cycle 
 <img src="images/MultipleLinier.png?raw=true"/>
 
 ### Presentation
-<iframe src="pdf/dataanalisisporto.pdf" width="600" height="400"></iframe>
+<iframe src="pdf/dataanalisisporto.pdf?raw=true" width="600" height="400"></iframe>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
