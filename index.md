@@ -1,5 +1,5 @@
 # Projects I've Conceived
-| Selected Projects in Web Development, Data Science, & Machine Learning |
+| Selected Projects in Web Dev, Data Science, & Machine Learning |
 
 ---
 
