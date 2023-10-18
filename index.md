@@ -1,16 +1,19 @@
-# Selected Projects in Web Developmetn, Data Science, & Machine Learning
+# Projects I've Conceived
+| Selected Projects in Web Development, Data Science, & Machine Learning |
 
 ---
 
-## Implement Data Analysis Cycle and Performance Prediction on Employee Dataset in HR department
+## Implement Data Analysis Cycle and Prediction Models on Employee Dataset
 
-To gain insights from HR Department Data, I utilized the data analysis and linear regression model approach to identify employe's performance based on their age and total hours of absence during their employment. In addition, I employed the python and regression models using Jupyter Notebook to create a robust performance prediction model.
+To gain insights from HR Department Dataset, I utilized the data analysis cycle and prediction model approach to identify employe's performance based on their age and length of work hours during their employment. In process, I employed the Python and Regression models using Jupyter Notebook environment to create a robust performance prediction model.
 
 <img src="images/SimpleLinier.png?raw=true"/>
 
 <img src="images/MultipleLinier.png?raw=true"/>
 
-### Presentation -> (/pdf/dataanalisisporto.pdf)
+### Presentation
+<iframe src="pdf/dataanalisisporto.pdf" width="600" height="400"></iframe>
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 ---
