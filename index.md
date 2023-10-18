@@ -2,7 +2,7 @@
 
 ---
 
-## Implement RFM Analysis and Sales Prediction on E-Commerce Dataset
+## Implement Data Analysis Cycle and Performance Prediction on Employee Dataset in HR department
 
 To gain insights from HR Department Data, I utilized the data analysis and linear regression model approach to identify employe's performance based on their age and total hours of absence during their employment. In addition, I employed the python and regression models using Jupyter Notebook to create a robust performance prediction model.
 
