@@ -1,6 +1,4 @@
-## Portfolio
-
-# Selected Projects in Data Science & Machine Learning
+# Selected Projects in Web Developmetn, Data Science, & Machine Learning
 
 ---
 
@@ -8,10 +6,11 @@
 
 To gain insights from HR Department Data, I utilized the data analysis and linear regression model approach to identify employe's performance based on their age and total hours of absence during their employment. In addition, I employed the python and regression models using Jupyter Notebook to create a robust performance prediction model.
 
-<img src="images/SimpleLinier.png"/>
+<img src="images/SimpleLinier.png?raw=true"/>
 
-<img src="images/MultipleLinier.png"/>
+<img src="images/MultipleLinier.png?raw=true"/>
 
+### Presentation -> (/pdf/dataanalisisporto.pdf)
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 ---
