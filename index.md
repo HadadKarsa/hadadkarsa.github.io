@@ -36,11 +36,11 @@ TensorFlow to develop the machine learning model. In addition, I utilized Python
 ## Tourist Visit Prediction Website with the Application of Data Mining - Decision Tree C4.5 Algorithm
 I developed a predictive web platform for my undergraduate thesis (Skripsi), focusing on managing tourist visitation data for Pati Regency. The platform features a dynamic data mining tool for predicting tourist trends. The tech stack involved PHP with the CodeIgniter 3 framework, SQL databases, Python for algorithmic processing, and Bootstrap 4 for UI development.
 
-<img src="images/traintest.png?raw=true"/>
+<img src="images/Dashboardskripsi.png?raw=true"/>
 
-<img src="images/good_coffee.png?raw=true"/>
+<img src="images/c45.png?raw=true"/>
 
-<img src="images/defect_coffee.png?raw=true"/>
+<img src="images/prediksiwisata.png?raw=true"/>
 
 [View Demo on My Youtube Channel](https://youtube.com/@hadadkarsanuriman2487?si=2EOV934I9U2YsBTJ)
 
