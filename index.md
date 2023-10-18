@@ -1,5 +1,5 @@
 # Projects I've Conceived
-| Selected Projects in Web Dev, Data Science, & Machine Learning |
+Selected Projects in Web Dev, Data Science, & Machine Learning
 
 ---
 
@@ -11,14 +11,21 @@ To gain insights from HR Department Dataset, I utilized the data analysis cycle 
 
 <img src="images/MultipleLinier.png?raw=true"/>
 
-### Presentation
+### Code and Result
+[View code on GitHub repository](https://github.com/HadadKarsa/portfolio-dataanalytics)
 <iframe src="pdf/dataanalisisporto.pdf?raw=true" width="600" height="400"></iframe>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Machine Learning Model for CoffeeBid Mobile Apps
+Built a coffee bean quality detection model for an online coffee auction application called CoffeeBid. In this project, I applied
+TensorFlow to develop the machine learning model. In addition, I utilized Python, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow, Convolutional Neural Network, Jupyter Notebook, MobileNet-V2 Pretrained Model, and GitHub for teamwork environment.
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+
+[View code on GitHub repository](https://github.com/coffeebid-capstone/CoffeeBid-ML/tree/main/Model%201%20-%20Coffee_Beans_Quality_Detection)
 
 ---
 
@@ -36,5 +43,4 @@ To gain insights from HR Department Dataset, I utilized the data analysis cycle 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
