@@ -1,11 +1,11 @@
 # Projects I've Conceived
 Selected Projects in Web Dev, Data Science, & Machine Learning
+
 ---
 ## Global Certification - TensorFlow Developer Certified
 
 I'm a certified TensorFlow Developer and a Bachelor of Computer Science with a focus on Information Systems. Specialized in machine learning, and data analytics, my work spans various tech-driven projects. Recently, I achieved TFD Certification, demonstrating my expertise and commitment to innovation. Open for collaboration and tech discussions, I aim to employ technology for real-world solutions.
 
-![Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84694956)
 ![Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84694956)
 
 [View the Credential on TensorFlow via Accredible](https://www.credential.net/52e70482-3dbd-4b1d-b0d1-f66c39e96698)
