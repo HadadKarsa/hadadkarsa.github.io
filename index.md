@@ -5,21 +5,13 @@ Selected Projects in Web Dev, Data Science, & Machine Learning
 
 I'm a certified TensorFlow Developer and a Bachelor of Computer Science with a focus on Information Systems. Specialized in machine learning, and data analytics, my work spans various tech-driven projects. Recently, I achieved TFD Certification, demonstrating my expertise and commitment to innovation. Open for collaboration and tech discussions, I aim to employ technology for real-world solutions.
 
-<img src="images/SimpleLinier.png?raw=true"/>
-
-<img src="images/MultipleLinier.png?raw=true"/>
-
-<iframe
-  src="https://www.credential.net/embed/52e70482-3dbd-4b1d-b0d1-f66c39e96698"
-  width="300"
-  height="200"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+![Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84694956)
+![Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84694956)
 
 [View the Credential on TensorFlow via Accredible](https://www.credential.net/52e70482-3dbd-4b1d-b0d1-f66c39e96698)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#) [![](https://img.shields.io/badge/Computer%20Vision-white?logo=OpenCV)](#) [![](https://img.shields.io/badge/CNN-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/NLP-white?logo=Natural-Language-Processing)](#) [![](https://img.shields.io/badge/Neural%20Network-white?logo=Neural-Network)](#) [![](https://img.shields.io/badge/LSTM-white?logo=Time-Series)](#)
+
 ---
 
 ## Implement Data Analysis Cycle and Prediction Models on Employee Dataset
@@ -32,7 +24,6 @@ To gain insights from HR Department Dataset, I utilized the data analysis cycle 
 
 ### Code and Result
 [View code on GitHub repository](https://github.com/HadadKarsa/portfolio-dataanalytics)
-<iframe src="pdf/dataanalisisporto.pdf?raw=true" width="400" height="200"></iframe>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
