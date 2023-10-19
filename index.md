@@ -52,7 +52,7 @@ I developed a predictive web platform for my undergraduate thesis (Skripsi), foc
 
 <img src="images/prediksiwisata.png?raw=true"/>
 
-[View Demo on My Youtube Channel](https://youtube.com/@hadadkarsanuriman2487?si=2EOV934I9U2YsBTJ)
+[View Demo on My Youtube Channel](https://youtu.be/PDAcagZRXd4)
 
 [![](https://img.shields.io/badge/PHP-white?logo=PHP)](#) [![](https://img.shields.io/badge/CodeIgniter-white?logo=CodeIgniter)](#) [![](https://img.shields.io/badge/SQL-white?logo=MySQL)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Bootstrap-white?logo=Bootstrap)](#)
 
