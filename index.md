@@ -1,10 +1,9 @@
 # Projects I've Conceived
 Selected Projects in Web Dev, Data Analytics/Science, & Machine Learning/AI
-
+---
+I'm a certified TensorFlow Developer and a Bachelor of Computer Science with a focus on Information Systems. Specialized in machine learning - Artificial Intelligence, data analytics, and web development with PHP - CodeIgniter & JavaScript - Next.JS, my work spans various tech experiences. I achieved TFD Certification, demonstrating my expertise and commitment to innovation. Open for collaboration and tech discussions, I aim to employ technology for real-world solutions.
 ---
 ## Global Certification - TensorFlow Developer Certified
-
-I'm a certified TensorFlow Developer and a Bachelor of Computer Science with a focus on Information Systems. Specialized in machine learning/AI, data analytics, and web development with PHP - CodeIgniter/JavaScript - Next.JS, my work spans various tech-driven projects. Recently, I achieved TFD Certification, demonstrating my expertise and commitment to innovation. Open for collaboration and tech discussions, I aim to employ technology for real-world solutions.
 
 ![Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84694956)
 
@@ -17,9 +16,9 @@ I'm a certified TensorFlow Developer and a Bachelor of Computer Science with a f
 
 To gain insights from Air Quality Dataset (Dicoding's Project), I utilized the data analysis cycle to identify air quality based on the indicator di setiap stasiun selama 2013-2017. In the process, I employed the Python and Streamlit using Jupyter Notebook and PyCharm environment to create a robust data analytics.
 
-<img src="images/SimpleLinier.png?raw=true"/>
+<img src="images/277880972-09abc310-d6a7-4aba-81a1-035d3711e258.png?raw=true"/>
 
-<img src="images/MultipleLinier.png?raw=true"/>
+<img src="images/airqualitydb2.png?raw=true"/>
 
 ### Code and Result
 [View code on GitHub repository](https://github.com/HadadKarsa/air-quality-dashboard)
@@ -31,9 +30,9 @@ To gain insights from Air Quality Dataset (Dicoding's Project), I utilized the d
 
 To gain insights from HR Department Dataset, I utilized the data analysis cycle and prediction model approach to identify employe's performance based on their age and length of work hours during their employment. In process, I employed the Python and Regression models using Jupyter Notebook environment to create a robust performance prediction model.
 
-<img src="images/277880972-09abc310-d6a7-4aba-81a1-035d3711e258.png?raw=true"/>
+<img src="images/SimpleLinier.png?raw=true"/>
 
-<img src="images/airqualitydb2.png?raw=true"/>
+<img src="images/MultipleLinier.png?raw=true"/>
 
 ### Code and Result
 [View code on GitHub repository](https://github.com/HadadKarsa/portfolio-dataanalytics)
@@ -68,9 +67,6 @@ I developed a predictive web platform for my undergraduate thesis (Skripsi), foc
 [View Demo on My Youtube Channel](https://youtu.be/PDAcagZRXd4)
 
 [![](https://img.shields.io/badge/PHP-white?logo=PHP)](#) [![](https://img.shields.io/badge/CodeIgniter-white?logo=CodeIgniter)](#) [![](https://img.shields.io/badge/SQL-white?logo=MySQL)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Bootstrap-white?logo=Bootstrap)](#)
-
----
-
 
 
 
