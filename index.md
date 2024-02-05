@@ -13,16 +13,16 @@ I'm a certified TensorFlow Developer and a Bachelor of Computer Science with a f
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#) [![](https://img.shields.io/badge/Computer%20Vision-white?logo=OpenCV)](#) [![](https://img.shields.io/badge/CNN-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/NLP-white?logo=Natural-Language-Processing)](#) [![](https://img.shields.io/badge/Neural%20Network-white?logo=Neural-Network)](#) [![](https://img.shields.io/badge/LSTM-white?logo=Time-Series)](#)
 
 ---
-## Implement Data Analysis on Air Quality Dataset
+## Implement Data Analysis with Interactive Dashboard on Air Quality Dataset
 
-To gain insights from Air Quality Dataset (Dicoding's Project), I utilized the data analysis cycleto identify employe's performance based on their age and length of work hours during their employment. In process, I employed the Python and Regression models using Jupyter Notebook environment to create a robust performance prediction model.
+To gain insights from Air Quality Dataset (Dicoding's Project), I utilized the data analysis cycle to identify air quality based on the indicator di setiap stasiun selama 2013-2017. In the process, I employed the Python and Streamlit using Jupyter Notebook and PyCharm environment to create a robust data analytics.
 
 <img src="images/SimpleLinier.png?raw=true"/>
 
 <img src="images/MultipleLinier.png?raw=true"/>
 
 ### Code and Result
-[View code on GitHub repository](https://github.com/HadadKarsa/portfolio-dataanalytics)
+[View code on GitHub repository](https://github.com/HadadKarsa/air-quality-dashboard)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
