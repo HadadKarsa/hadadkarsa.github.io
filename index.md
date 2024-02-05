@@ -1,10 +1,10 @@
 # Projects I've Conceived
-Selected Projects in Web Dev, Data Science, & Machine Learning
+Selected Projects in Web Dev, Data Analytics/Science, & Machine Learning/AI
 
 ---
 ## Global Certification - TensorFlow Developer Certified
 
-I'm a certified TensorFlow Developer and a Bachelor of Computer Science with a focus on Information Systems. Specialized in machine learning, and data analytics, my work spans various tech-driven projects. Recently, I achieved TFD Certification, demonstrating my expertise and commitment to innovation. Open for collaboration and tech discussions, I aim to employ technology for real-world solutions.
+I'm a certified TensorFlow Developer and a Bachelor of Computer Science with a focus on Information Systems. Specialized in machine learning/AI, data analytics, and web development with PHP - CodeIgniter/JavaScript - Next.JS, my work spans various tech-driven projects. Recently, I achieved TFD Certification, demonstrating my expertise and commitment to innovation. Open for collaboration and tech discussions, I aim to employ technology for real-world solutions.
 
 ![Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84694956)
 
@@ -31,9 +31,9 @@ To gain insights from Air Quality Dataset (Dicoding's Project), I utilized the d
 
 To gain insights from HR Department Dataset, I utilized the data analysis cycle and prediction model approach to identify employe's performance based on their age and length of work hours during their employment. In process, I employed the Python and Regression models using Jupyter Notebook environment to create a robust performance prediction model.
 
-<img src="images/SimpleLinier.png?raw=true"/>
+<img src="images/277880972-09abc310-d6a7-4aba-81a1-035d3711e258.png?raw=true"/>
 
-<img src="images/MultipleLinier.png?raw=true"/>
+<img src="images/airqualitydb2.png?raw=true"/>
 
 ### Code and Result
 [View code on GitHub repository](https://github.com/HadadKarsa/portfolio-dataanalytics)
